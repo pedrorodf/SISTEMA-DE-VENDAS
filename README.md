@@ -47,6 +47,6 @@ a aplicação cria um arquivo com as colunas:
 | `produto` | Produto vendido |
 | `quantidade` | Unidades vendidas |
 | `valor` | Valor unitário do produto |
-
+      
 Os vendedores e produtos disponíveis no formulário são definidos em
 `main.py`. Para manter os registros, não apague nem substitua `vendas.csv`.
